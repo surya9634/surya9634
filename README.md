@@ -1,4 +1,4 @@
-नमस्ते! I'm Suraj Sharma (Surya) 🚀  
+नमस्ते, Hola, Hello I'm Suraj Sharma (Surya) 🚀  
 At just 14 years old, I am a passionate innovator with a relentless drive to push the limits of technology, blending it with real-world solutions. My journey as a developer has led me to create projects that are as diverse as they are forward-thinking—spanning AI, education, safety, and more. I believe that true innovation is limitless, and with each project, I strive to impact humanity positively, infusing creativity and purpose into every line of code.
 
 Welcome to my ever-expanding universe of creativity, technology, and boundless innovation! 🌌
