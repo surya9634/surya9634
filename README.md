@@ -31,7 +31,7 @@ Welcome to my ever-expanding universe of creativity, technology, and boundless i
 - **NidraRakshak – Drowsiness Detection System**  
   Enhancing driver safety by detecting fatigue in real-time through facial landmarks, ensuring a safe journey every time.
 
-- **Brahmastra – The Developer’s Weapon**  
+- **Brahmostra – The Developer’s Weapon**  
   An all-in-one toolkit for developers, automating code generation, file management, and AI integration to streamline workflows.
 
 - **Dronacharya – The Ultimate Educational Assistant**  
