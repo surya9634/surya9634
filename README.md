@@ -52,6 +52,26 @@ Welcome to my ever-expanding universe of creativity, technology, and boundless i
 - **Rudra – The Humanoid Robot**  
   A humanoid robot designed to mimic human actions, from walking to conversing. Rudra is a step toward creating human-like AI-driven robots.
 
+-**Pashupatastra: Let's combine chemistry in our A.I Projects..**
+  Pashupatastra aims to synthesize a high-energy solid propellant using a precisely calculated oxidizing agent (potassium nitrate) and a sucrose-based fuel matrix. This project combines complex stoichiometric principles with high-energy density formulation for small rocket applications. Extreme caution, precision, and strict adherence to procedural details are essential.
+
+-**Sarvagya-True friend with many personalities and functions...**
+  Sarvagya adapts to your needs, switching effortlessly between different expert modes, and its real-time vision combined with a Jarvis-like voice creates an unparalleled experience that feels futuristic yet familiar. Whether you need health advice, educational support, or cultural insights, Sarvagya is ready to engage, enlighten, and empower.
+
+-**Mjolnir-Let-us-Hack-it**
+  Introducing Mjolnir — a cutting-edge application combining advanced real-time video streaming, GUI design, and public access through ngrok integration, creating a streamlined and futuristic user experience. Mjolnir leverages Flask and Socket.IO for real-time communication, empowering seamless video streaming capabilities directly to the web. With a sleek customtkinter GUI, it radiates a high-tech feel, featuring dark mode with neon-inspired colors that give it a modern edge.
+
+-**Chanakya: A WAY TO SOLVE!!**
+  Chanakya: A cutting-edge AI framework designed to simplify decision-making and strategy formulation. Inspired by the wisdom of ancient strategist Chanakya, this tool integrates advanced algorithms to analyze data, predict outcomes, and optimize solutions for real-world challenges. Perfect for developers, researchers, and innovators looking to harness AI's power for strategic insights.
+
+-**ThoughtGram**
+
+😍Presenting you all ThoghtGram: Privacy Matters...👏
+
+Letting you be anonymous while posting🤩
+
+First ever Indian Individual made Social media App
+
 ### In Development:  
 The journey doesn’t end here—it extends to **INFINITY** and beyond! 🚀  
 - Surya Narirakshak: Enhancing safety features with real-time location tracking and multi-platform alerts.  
